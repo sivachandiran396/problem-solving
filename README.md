@@ -42,4 +42,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/sivachandiran396/problem-solving/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0090-subsets-ii) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/sivachandiran396/problem-solving/tree/master/0201-bitwise-and-of-numbers-range) |
 <!---LeetCode Topics End-->
