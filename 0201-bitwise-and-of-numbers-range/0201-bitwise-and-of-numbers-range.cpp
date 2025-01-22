@@ -7,6 +7,6 @@ public:
             right>>=1;
             c++;
         }
-        return left<<=c;
+        return left<<c;
     }
 };
