@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/sivachandiran396/problem-solving/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/sivachandiran396/problem-solving/tree/master/0042-trapping-rain-water) |
+| [0056-merge-intervals](https://github.com/sivachandiran396/problem-solving/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/sivachandiran396/problem-solving/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0090-subsets-ii) |
 | [0274-h-index](https://github.com/sivachandiran396/problem-solving/tree/master/0274-h-index) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/sivachandiran396/problem-solving/tree/master/0056-merge-intervals) |
 | [0274-h-index](https://github.com/sivachandiran396/problem-solving/tree/master/0274-h-index) |
 | [2447-merge-similar-items](https://github.com/sivachandiran396/problem-solving/tree/master/2447-merge-similar-items) |
 ## Counting Sort
