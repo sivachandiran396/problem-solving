@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sivachandiran396/problem-solving/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/sivachandiran396/problem-solving/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0090-subsets-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/sivachandiran396/problem-solving/tree/master/0201-bitwise-and-of-numbers-range) |
@@ -67,10 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sivachandiran396/problem-solving/tree/master/0067-add-binary) |
 | [0445-add-two-numbers-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0445-add-two-numbers-ii) |
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sivachandiran396/problem-solving/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/sivachandiran396/problem-solving/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/sivachandiran396/problem-solving/tree/master/0392-is-subsequence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sivachandiran396/problem-solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -140,5 +143,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sivachandiran396/problem-solving/tree/master/0067-add-binary) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sivachandiran396/problem-solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
