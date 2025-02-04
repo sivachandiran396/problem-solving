@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/sivachandiran396/problem-solving/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0090-subsets-ii) |
 | [0274-h-index](https://github.com/sivachandiran396/problem-solving/tree/master/0274-h-index) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/sivachandiran396/problem-solving/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sivachandiran396/problem-solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2447-merge-similar-items](https://github.com/sivachandiran396/problem-solving/tree/master/2447-merge-similar-items) |
 ## Sorting
