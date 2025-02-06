@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/sivachandiran396/problem-solving/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/sivachandiran396/problem-solving/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/sivachandiran396/problem-solving/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/sivachandiran396/problem-solving/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0090-subsets-ii) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/sivachandiran396/problem-solving/tree/master/0056-merge-intervals) |
 | [0274-h-index](https://github.com/sivachandiran396/problem-solving/tree/master/0274-h-index) |
 | [2447-merge-similar-items](https://github.com/sivachandiran396/problem-solving/tree/master/2447-merge-similar-items) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/sivachandiran396/problem-solving/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sivachandiran396/problem-solving/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/sivachandiran396/problem-solving/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/sivachandiran396/problem-solving/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0090-subsets-ii) |
