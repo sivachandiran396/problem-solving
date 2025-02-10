@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sivachandiran396/problem-solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sivachandiran396/problem-solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0445-add-two-numbers-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0445-add-two-numbers-ii) |
+| [3447-clear-digits](https://github.com/sivachandiran396/problem-solving/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sivachandiran396/problem-solving/tree/master/0392-is-subsequence) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sivachandiran396/problem-solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sivachandiran396/problem-solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3447-clear-digits](https://github.com/sivachandiran396/problem-solving/tree/master/3447-clear-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/sivachandiran396/problem-solving/tree/master/0067-add-binary) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sivachandiran396/problem-solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3447-clear-digits](https://github.com/sivachandiran396/problem-solving/tree/master/3447-clear-digits) |
 ## Matrix
 |  |
 | ------- |
