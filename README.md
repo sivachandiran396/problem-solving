@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/sivachandiran396/problem-solving/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/sivachandiran396/problem-solving/tree/master/0067-add-binary) |
 | [0445-add-two-numbers-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0445-add-two-numbers-ii) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/sivachandiran396/problem-solving/tree/master/1817-calculate-money-in-leetcode-bank) |
 ## String
 |  |
 | ------- |
