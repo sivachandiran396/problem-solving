@@ -13,10 +13,6 @@
 class Solution {
 public:
     void check(TreeNode* root, string sum, vector<string>& ans) {
-        if (root == nullptr) {
-            ans.push_back(sum);
-            return;
-        }
         sum += to_string(root->val);
         if (root->left == nullptr && root->right == nullptr) {
             ans.push_back(sum);
