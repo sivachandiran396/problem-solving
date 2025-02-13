@@ -11,13 +11,13 @@
  */
 class Solution {
 public:
-int check(TreeNode* root,int sum,vector<int> vec,vector<vector<int>> &ans, int target){
-    if(root==nullptr) return 0;
+void check(TreeNode* root,int sum,vector<int> vec,vector<vector<int>> &ans, int target){
+    if(root==nullptr) return ;
     sum+=root->val;
     vec.push_back(root->val);
     if(sum==target && root->left==nullptr && root->right==nullptr) {
           ans.push_back(vec);
-          return 0;
+          return ;
     }
     if(root->left!=nullptr){
         check(root->left,sum,vec,ans,target);
@@ -25,7 +25,6 @@ int check(TreeNode* root,int sum,vector<int> vec,vector<vector<int>> &ans, int t
     if(root->right!=nullptr){
         check(root->right,sum,vec,ans,target);
     }
-    return 0;
 }
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
         vector<vector<int>> ans;
