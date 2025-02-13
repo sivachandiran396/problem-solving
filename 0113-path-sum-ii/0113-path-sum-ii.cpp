@@ -25,7 +25,7 @@ int check(TreeNode* root,int sum,vector<int> vec,vector<vector<int>> &ans, int t
     if(root->right!=nullptr){
         check(root->right,sum,vec,ans,target);
     }
-    return root->val;
+    return 0;
 }
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
         vector<vector<int>> ans;
