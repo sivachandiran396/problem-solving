@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/sivachandiran396/problem-solving/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/sivachandiran396/problem-solving/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/sivachandiran396/problem-solving/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sivachandiran396/problem-solving/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/sivachandiran396/problem-solving/tree/master/0042-trapping-rain-water) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/sivachandiran396/problem-solving/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sivachandiran396/problem-solving/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sivachandiran396/problem-solving/tree/master/0046-permutations) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sivachandiran396/problem-solving/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/sivachandiran396/problem-solving/tree/master/0037-sudoku-solver) |
 | [0383-ransom-note](https://github.com/sivachandiran396/problem-solving/tree/master/0383-ransom-note) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sivachandiran396/problem-solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2447-merge-similar-items](https://github.com/sivachandiran396/problem-solving/tree/master/2447-merge-similar-items) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sivachandiran396/problem-solving/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/sivachandiran396/problem-solving/tree/master/0037-sudoku-solver) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
