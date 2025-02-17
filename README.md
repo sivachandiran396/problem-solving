@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/sivachandiran396/problem-solving/tree/master/0909-stone-game) |
 | [0940-fruit-into-baskets](https://github.com/sivachandiran396/problem-solving/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/sivachandiran396/problem-solving/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/sivachandiran396/problem-solving/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sivachandiran396/problem-solving/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/sivachandiran396/problem-solving/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sivachandiran396/problem-solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sivachandiran396/problem-solving/tree/master/0067-add-binary) |
 | [0445-add-two-numbers-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0445-add-two-numbers-ii) |
 | [0909-stone-game](https://github.com/sivachandiran396/problem-solving/tree/master/0909-stone-game) |
+| [1370-count-number-of-nice-subarrays](https://github.com/sivachandiran396/problem-solving/tree/master/1370-count-number-of-nice-subarrays) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/sivachandiran396/problem-solving/tree/master/1817-calculate-money-in-leetcode-bank) |
 ## String
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/sivachandiran396/problem-solving/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/sivachandiran396/problem-solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/sivachandiran396/problem-solving/tree/master/0940-fruit-into-baskets) |
+| [1370-count-number-of-nice-subarrays](https://github.com/sivachandiran396/problem-solving/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sivachandiran396/problem-solving/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sivachandiran396/problem-solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2447-merge-similar-items](https://github.com/sivachandiran396/problem-solving/tree/master/2447-merge-similar-items) |
@@ -257,11 +260,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/sivachandiran396/problem-solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/sivachandiran396/problem-solving/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/sivachandiran396/problem-solving/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/sivachandiran396/problem-solving/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sivachandiran396/problem-solving/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sivachandiran396/problem-solving/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/sivachandiran396/problem-solving/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/sivachandiran396/problem-solving/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sivachandiran396/problem-solving/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
