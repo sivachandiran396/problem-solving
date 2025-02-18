@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/sivachandiran396/problem-solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/sivachandiran396/problem-solving/tree/master/0392-is-subsequence) |
 | [0909-stone-game](https://github.com/sivachandiran396/problem-solving/tree/master/0909-stone-game) |
+| [1236-n-th-tribonacci-number](https://github.com/sivachandiran396/problem-solving/tree/master/1236-n-th-tribonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sivachandiran396/problem-solving/tree/master/0067-add-binary) |
 | [0445-add-two-numbers-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0445-add-two-numbers-ii) |
 | [0909-stone-game](https://github.com/sivachandiran396/problem-solving/tree/master/0909-stone-game) |
+| [1236-n-th-tribonacci-number](https://github.com/sivachandiran396/problem-solving/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sivachandiran396/problem-solving/tree/master/1370-count-number-of-nice-subarrays) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/sivachandiran396/problem-solving/tree/master/1817-calculate-money-in-leetcode-bank) |
 ## String
@@ -276,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/sivachandiran396/problem-solving/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sivachandiran396/problem-solving/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sivachandiran396/problem-solving/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/sivachandiran396/problem-solving/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
