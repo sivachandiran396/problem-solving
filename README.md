@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/sivachandiran396/problem-solving/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/sivachandiran396/problem-solving/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/sivachandiran396/problem-solving/tree/master/0392-is-subsequence) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/sivachandiran396/problem-solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/sivachandiran396/problem-solving/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sivachandiran396/problem-solving/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Dynamic Programming
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/sivachandiran396/problem-solving/tree/master/0037-sudoku-solver) |
 | [0383-ransom-note](https://github.com/sivachandiran396/problem-solving/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/sivachandiran396/problem-solving/tree/master/0424-longest-repeating-character-replacement) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/sivachandiran396/problem-solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0940-fruit-into-baskets](https://github.com/sivachandiran396/problem-solving/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/sivachandiran396/problem-solving/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sivachandiran396/problem-solving/tree/master/1370-count-number-of-nice-subarrays) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/sivachandiran396/problem-solving/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sivachandiran396/problem-solving/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sivachandiran396/problem-solving/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/sivachandiran396/problem-solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sivachandiran396/problem-solving/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/sivachandiran396/problem-solving/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/sivachandiran396/problem-solving/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sivachandiran396/problem-solving/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/sivachandiran396/problem-solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -223,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/sivachandiran396/problem-solving/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sivachandiran396/problem-solving/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sivachandiran396/problem-solving/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/sivachandiran396/problem-solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sivachandiran396/problem-solving/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -237,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/sivachandiran396/problem-solving/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/sivachandiran396/problem-solving/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sivachandiran396/problem-solving/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/sivachandiran396/problem-solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Recursion
 |  |
 | ------- |
@@ -275,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sivachandiran396/problem-solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sivachandiran396/problem-solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/sivachandiran396/problem-solving/tree/master/0450-delete-node-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/sivachandiran396/problem-solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sivachandiran396/problem-solving/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Game Theory
 |  |
