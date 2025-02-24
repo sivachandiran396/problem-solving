@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2447-merge-similar-items](https://github.com/sivachandiran396/problem-solving/tree/master/2447-merge-similar-items) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sivachandiran396/problem-solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sivachandiran396/problem-solving/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2650-split-with-minimum-sum](https://github.com/sivachandiran396/problem-solving/tree/master/2650-split-with-minimum-sum) |
 ## Counting Sort
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/sivachandiran396/problem-solving/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sivachandiran396/problem-solving/tree/master/1370-count-number-of-nice-subarrays) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/sivachandiran396/problem-solving/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [2650-split-with-minimum-sum](https://github.com/sivachandiran396/problem-solving/tree/master/2650-split-with-minimum-sum) |
 ## String
 |  |
 | ------- |
@@ -321,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/sivachandiran396/problem-solving/tree/master/1236-n-th-tribonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [2650-split-with-minimum-sum](https://github.com/sivachandiran396/problem-solving/tree/master/2650-split-with-minimum-sum) |
 <!---LeetCode Topics End-->
