@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/sivachandiran396/problem-solving/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/sivachandiran396/problem-solving/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/sivachandiran396/problem-solving/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/sivachandiran396/problem-solving/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sivachandiran396/problem-solving/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sivachandiran396/problem-solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/sivachandiran396/problem-solving/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/sivachandiran396/problem-solving/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/sivachandiran396/problem-solving/tree/master/0404-sum-of-left-leaves) |
+| [0547-number-of-provinces](https://github.com/sivachandiran396/problem-solving/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sivachandiran396/problem-solving/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sivachandiran396/problem-solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Recursion
@@ -336,4 +338,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/sivachandiran396/problem-solving/tree/master/0303-range-sum-query-immutable) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/sivachandiran396/problem-solving/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/sivachandiran396/problem-solving/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
