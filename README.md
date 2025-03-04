@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/sivachandiran396/problem-solving/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sivachandiran396/problem-solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/sivachandiran396/problem-solving/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/sivachandiran396/problem-solving/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/sivachandiran396/problem-solving/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/sivachandiran396/problem-solving/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sivachandiran396/problem-solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/sivachandiran396/problem-solving/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/sivachandiran396/problem-solving/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/sivachandiran396/problem-solving/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/sivachandiran396/problem-solving/tree/master/1073-number-of-enclaves) |
 ## Recursion
@@ -368,9 +370,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/sivachandiran396/problem-solving/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/sivachandiran396/problem-solving/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/sivachandiran396/problem-solving/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/sivachandiran396/problem-solving/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/sivachandiran396/problem-solving/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/sivachandiran396/problem-solving/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
