@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sivachandiran396/problem-solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sivachandiran396/problem-solving/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/sivachandiran396/problem-solving/tree/master/2551-apply-operations-to-an-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sivachandiran396/problem-solving/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sivachandiran396/problem-solving/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3463-alternating-groups-i](https://github.com/sivachandiran396/problem-solving/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/sivachandiran396/problem-solving/tree/master/3483-alternating-groups-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/sivachandiran396/problem-solving/tree/master/0383-ransom-note) |
 | [1034-subarrays-with-k-different-integers](https://github.com/sivachandiran396/problem-solving/tree/master/1034-subarrays-with-k-different-integers) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sivachandiran396/problem-solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sivachandiran396/problem-solving/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/sivachandiran396/problem-solving/tree/master/0222-count-complete-tree-nodes) |
 | [0633-sum-of-square-numbers](https://github.com/sivachandiran396/problem-solving/tree/master/0633-sum-of-square-numbers) |
 | [1046-max-consecutive-ones-iii](https://github.com/sivachandiran396/problem-solving/tree/master/1046-max-consecutive-ones-iii) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sivachandiran396/problem-solving/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search Tree
 |  |
 | ------- |
