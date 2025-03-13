@@ -1,44 +1,24 @@
 class Solution {
-public:
-    void dfs(int r, int c, vector<vector<int>>& vis, vector<vector<int>>& grid,
-             int color,int f) {
-        int n = grid.size();
-        int m = grid[0].size();
-        vis[r][c] = 1;
-        grid[r][c] = color;
-        int rw = r;
-        int cw = c - 1;
-        if (rw >= 0 && rw < n && cw >= 0 && cw < m && grid[rw][cw] ==f &&
-            !vis[rw][cw]) {
-            dfs(rw, cw, vis, grid, color,f);
-        }
-        rw = r - 1;
-        cw = c;
-        if (rw >= 0 && rw < n && cw >= 0 && cw < m && grid[rw][cw] ==f &&
-            !vis[rw][cw]) {
-            dfs(rw, cw, vis, grid, color,f);
-        }
-        rw = r;
-        cw = c+1;
-        if (rw >= 0 && rw < n && cw >= 0 && cw < m && grid[rw][cw] ==f &&
-            !vis[rw][cw]) {
-            dfs(rw, cw, vis, grid, color,f);
-        }
-        rw = r + 1;
-        cw = c;
-        if (rw >= 0 && rw < n && cw >= 0 && cw < m && grid[rw][cw] ==f &&
-            !vis[rw][cw]) {
-            dfs(rw, cw, vis, grid, color,f);
-        }
-    }
+  public:
+  void dfs(int row,int col,vector<vector<int>> &image,int newColor,int oldColor){
+      vector<int> rw={0,-1,0,1};
+      vector<int> cw={-1,0,1,0};
+      image[row][col]=newColor;
+      int n=image.size();
+      int m=image[0].size();
+      for(int i=0;i<4;i++){
+          int r=row+rw[i];
+          int c=col+cw[i];
+          if(r<n && r>=0 && c>=0 && c<m && image[r][c]==oldColor ){
+              dfs(r,c,image,newColor,oldColor);
+          }
+      }
+  }
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc,
-                                  int color) {
-        int n = image.size();
-        int m = image[0].size();
-        int s=image[sr][sc];
-        image[sr][sc] = color;
-        vector<vector<int>> vis(n, vector<int>(m, 0));
-                    dfs(sr, sc, vis, image, color,s);
+                                  int newColor) {
+        int oldColor=image[sr][sc];
+        if(oldColor==newColor) return image;
+        dfs(sr,sc,image,newColor,oldColor);
         return image;
     }
 };
