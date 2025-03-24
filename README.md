@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/sivachandiran396/problem-solving/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/sivachandiran396/problem-solving/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sivachandiran396/problem-solving/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3430-count-days-without-meetings](https://github.com/sivachandiran396/problem-solving/tree/master/3430-count-days-without-meetings) |
 | [3463-alternating-groups-i](https://github.com/sivachandiran396/problem-solving/tree/master/3463-alternating-groups-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sivachandiran396/problem-solving/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/sivachandiran396/problem-solving/tree/master/3483-alternating-groups-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sivachandiran396/problem-solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sivachandiran396/problem-solving/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2650-split-with-minimum-sum](https://github.com/sivachandiran396/problem-solving/tree/master/2650-split-with-minimum-sum) |
+| [3430-count-days-without-meetings](https://github.com/sivachandiran396/problem-solving/tree/master/3430-count-days-without-meetings) |
 ## Counting Sort
 |  |
 | ------- |
