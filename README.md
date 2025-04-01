@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sivachandiran396/problem-solving/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/sivachandiran396/problem-solving/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/sivachandiran396/problem-solving/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/sivachandiran396/problem-solving/tree/master/0171-excel-sheet-column-number) |
 | [0445-add-two-numbers-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0445-add-two-numbers-ii) |
 | [0633-sum-of-square-numbers](https://github.com/sivachandiran396/problem-solving/tree/master/0633-sum-of-square-numbers) |
 | [0909-stone-game](https://github.com/sivachandiran396/problem-solving/tree/master/0909-stone-game) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/sivachandiran396/problem-solving/tree/master/0067-add-binary) |
 | [0127-word-ladder](https://github.com/sivachandiran396/problem-solving/tree/master/0127-word-ladder) |
+| [0171-excel-sheet-column-number](https://github.com/sivachandiran396/problem-solving/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/sivachandiran396/problem-solving/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/sivachandiran396/problem-solving/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/sivachandiran396/problem-solving/tree/master/0392-is-subsequence) |
