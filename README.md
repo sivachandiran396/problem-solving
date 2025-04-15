@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/sivachandiran396/problem-solving/tree/master/0222-count-complete-tree-nodes) |
+| [0278-first-bad-version](https://github.com/sivachandiran396/problem-solving/tree/master/0278-first-bad-version) |
 | [0633-sum-of-square-numbers](https://github.com/sivachandiran396/problem-solving/tree/master/0633-sum-of-square-numbers) |
 | [1046-max-consecutive-ones-iii](https://github.com/sivachandiran396/problem-solving/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sivachandiran396/problem-solving/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -488,4 +489,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sivachandiran396/problem-solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/sivachandiran396/problem-solving/tree/master/2998-count-symmetric-integers) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/sivachandiran396/problem-solving/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
