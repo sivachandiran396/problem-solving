@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/sivachandiran396/problem-solving/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sivachandiran396/problem-solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0067-add-binary](https://github.com/sivachandiran396/problem-solving/tree/master/0067-add-binary) |
 | [0127-word-ladder](https://github.com/sivachandiran396/problem-solving/tree/master/0127-word-ladder) |
