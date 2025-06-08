@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sivachandiran396/problem-solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sivachandiran396/problem-solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/sivachandiran396/problem-solving/tree/master/0257-binary-tree-paths) |
+| [0386-lexicographical-numbers](https://github.com/sivachandiran396/problem-solving/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/sivachandiran396/problem-solving/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/sivachandiran396/problem-solving/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sivachandiran396/problem-solving/tree/master/0547-number-of-provinces) |
@@ -527,4 +528,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/sivachandiran396/problem-solving/tree/master/0278-first-bad-version) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/sivachandiran396/problem-solving/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
