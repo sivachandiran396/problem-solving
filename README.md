@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/sivachandiran396/problem-solving/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sivachandiran396/problem-solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sivachandiran396/problem-solving/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/sivachandiran396/problem-solving/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sivachandiran396/problem-solving/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/sivachandiran396/problem-solving/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sivachandiran396/problem-solving/tree/master/2308-divide-array-into-equal-pairs) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sivachandiran396/problem-solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/sivachandiran396/problem-solving/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sivachandiran396/problem-solving/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/sivachandiran396/problem-solving/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sivachandiran396/problem-solving/tree/master/2308-divide-array-into-equal-pairs) |
 | [2447-merge-similar-items](https://github.com/sivachandiran396/problem-solving/tree/master/2447-merge-similar-items) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sivachandiran396/problem-solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/sivachandiran396/problem-solving/tree/master/0777-toeplitz-matrix) |
 | [1036-rotting-oranges](https://github.com/sivachandiran396/problem-solving/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/sivachandiran396/problem-solving/tree/master/1073-number-of-enclaves) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/sivachandiran396/problem-solving/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2728-sum-in-a-matrix](https://github.com/sivachandiran396/problem-solving/tree/master/2728-sum-in-a-matrix) |
 | [3330-modify-the-matrix](https://github.com/sivachandiran396/problem-solving/tree/master/3330-modify-the-matrix) |
 ## Heap (Priority Queue)
