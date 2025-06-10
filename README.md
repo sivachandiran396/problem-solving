@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sivachandiran396/problem-solving/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/sivachandiran396/problem-solving/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/sivachandiran396/problem-solving/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3330-modify-the-matrix](https://github.com/sivachandiran396/problem-solving/tree/master/3330-modify-the-matrix) |
 | [3430-count-days-without-meetings](https://github.com/sivachandiran396/problem-solving/tree/master/3430-count-days-without-meetings) |
 | [3463-alternating-groups-i](https://github.com/sivachandiran396/problem-solving/tree/master/3463-alternating-groups-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sivachandiran396/problem-solving/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/sivachandiran396/problem-solving/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/sivachandiran396/problem-solving/tree/master/1073-number-of-enclaves) |
 | [2728-sum-in-a-matrix](https://github.com/sivachandiran396/problem-solving/tree/master/2728-sum-in-a-matrix) |
+| [3330-modify-the-matrix](https://github.com/sivachandiran396/problem-solving/tree/master/3330-modify-the-matrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
