@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/sivachandiran396/problem-solving/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/sivachandiran396/problem-solving/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/sivachandiran396/problem-solving/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sivachandiran396/problem-solving/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/sivachandiran396/problem-solving/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0119-pascals-triangle-ii) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/sivachandiran396/problem-solving/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/sivachandiran396/problem-solving/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sivachandiran396/problem-solving/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/sivachandiran396/problem-solving/tree/master/0257-binary-tree-paths) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/sivachandiran396/problem-solving/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sivachandiran396/problem-solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0067-add-binary](https://github.com/sivachandiran396/problem-solving/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/sivachandiran396/problem-solving/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/sivachandiran396/problem-solving/tree/master/0127-word-ladder) |
 | [0171-excel-sheet-column-number](https://github.com/sivachandiran396/problem-solving/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/sivachandiran396/problem-solving/tree/master/0257-binary-tree-paths) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sivachandiran396/problem-solving/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sivachandiran396/problem-solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/sivachandiran396/problem-solving/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/sivachandiran396/problem-solving/tree/master/0100-same-tree) |
@@ -417,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/sivachandiran396/problem-solving/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sivachandiran396/problem-solving/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/sivachandiran396/problem-solving/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/sivachandiran396/problem-solving/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/sivachandiran396/problem-solving/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sivachandiran396/problem-solving/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/sivachandiran396/problem-solving/tree/master/0733-flood-fill) |
