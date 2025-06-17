@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/sivachandiran396/problem-solving/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0113-path-sum-ii) |
+| [0126-word-ladder-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0126-word-ladder-ii) |
 | [0257-binary-tree-paths](https://github.com/sivachandiran396/problem-solving/tree/master/0257-binary-tree-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sivachandiran396/problem-solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sivachandiran396/problem-solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0067-add-binary](https://github.com/sivachandiran396/problem-solving/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/sivachandiran396/problem-solving/tree/master/0079-word-search) |
+| [0126-word-ladder-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/sivachandiran396/problem-solving/tree/master/0127-word-ladder) |
 | [0171-excel-sheet-column-number](https://github.com/sivachandiran396/problem-solving/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/sivachandiran396/problem-solving/tree/master/0257-binary-tree-paths) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sivachandiran396/problem-solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/sivachandiran396/problem-solving/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sivachandiran396/problem-solving/tree/master/0037-sudoku-solver) |
+| [0126-word-ladder-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/sivachandiran396/problem-solving/tree/master/0127-word-ladder) |
 | [0383-ransom-note](https://github.com/sivachandiran396/problem-solving/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/sivachandiran396/problem-solving/tree/master/0424-longest-repeating-character-replacement) |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sivachandiran396/problem-solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sivachandiran396/problem-solving/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sivachandiran396/problem-solving/tree/master/0112-path-sum) |
+| [0126-word-ladder-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/sivachandiran396/problem-solving/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/sivachandiran396/problem-solving/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/sivachandiran396/problem-solving/tree/master/0199-binary-tree-right-side-view) |
