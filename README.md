@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sivachandiran396/problem-solving/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/sivachandiran396/problem-solving/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sivachandiran396/problem-solving/tree/master/0200-number-of-islands) |
+| [0216-combination-sum-iii](https://github.com/sivachandiran396/problem-solving/tree/master/0216-combination-sum-iii) |
 | [0274-h-index](https://github.com/sivachandiran396/problem-solving/tree/master/0274-h-index) |
 | [0303-range-sum-query-immutable](https://github.com/sivachandiran396/problem-solving/tree/master/0303-range-sum-query-immutable) |
 | [0396-rotate-function](https://github.com/sivachandiran396/problem-solving/tree/master/0396-rotate-function) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0126-word-ladder-ii) |
+| [0216-combination-sum-iii](https://github.com/sivachandiran396/problem-solving/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/sivachandiran396/problem-solving/tree/master/0257-binary-tree-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sivachandiran396/problem-solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
