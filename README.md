@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/sivachandiran396/problem-solving/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sivachandiran396/problem-solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/sivachandiran396/problem-solving/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/sivachandiran396/problem-solving/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sivachandiran396/problem-solving/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3447-clear-digits](https://github.com/sivachandiran396/problem-solving/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/sivachandiran396/problem-solving/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sivachandiran396/problem-solving/tree/master/0067-add-binary) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sivachandiran396/problem-solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sivachandiran396/problem-solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/sivachandiran396/problem-solving/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sivachandiran396/problem-solving/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/sivachandiran396/problem-solving/tree/master/2551-apply-operations-to-an-array) |
 | [2728-sum-in-a-matrix](https://github.com/sivachandiran396/problem-solving/tree/master/2728-sum-in-a-matrix) |
