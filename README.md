@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/sivachandiran396/problem-solving/tree/master/0127-word-ladder) |
 | [0171-excel-sheet-column-number](https://github.com/sivachandiran396/problem-solving/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/sivachandiran396/problem-solving/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/sivachandiran396/problem-solving/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/sivachandiran396/problem-solving/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/sivachandiran396/problem-solving/tree/master/0392-is-subsequence) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/sivachandiran396/problem-solving/tree/master/0037-sudoku-solver) |
 | [0126-word-ladder-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/sivachandiran396/problem-solving/tree/master/0127-word-ladder) |
+| [0205-isomorphic-strings](https://github.com/sivachandiran396/problem-solving/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/sivachandiran396/problem-solving/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/sivachandiran396/problem-solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sivachandiran396/problem-solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
