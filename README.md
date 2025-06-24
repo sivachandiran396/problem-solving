@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sivachandiran396/problem-solving/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/sivachandiran396/problem-solving/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/sivachandiran396/problem-solving/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/sivachandiran396/problem-solving/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0119-pascals-triangle-ii) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sivachandiran396/problem-solving/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/sivachandiran396/problem-solving/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/sivachandiran396/problem-solving/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/sivachandiran396/problem-solving/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/sivachandiran396/problem-solving/tree/master/0171-excel-sheet-column-number) |
 | [0396-rotate-function](https://github.com/sivachandiran396/problem-solving/tree/master/0396-rotate-function) |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/sivachandiran396/problem-solving/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sivachandiran396/problem-solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Enumeration
 |  |
