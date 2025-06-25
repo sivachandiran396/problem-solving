@@ -1,19 +1,19 @@
 class Solution {
-    public int fun(int i,int j,int n,List<List<Integer>> tri,int[][] dp){
-        if(i==n-1){
-            return dp[i][j]= tri.get(i).get(j);
-        }
-        if(dp[i][j]!=-1) return dp[i][j];
-        int d=fun(i+1,j,n,tri,dp);
-        int di=fun(i+1,j+1,n,tri,dp);
-        return dp[i][j]=tri.get(i).get(j)+Math.min(d,di);
-    }
+   
     public int minimumTotal(List<List<Integer>> triangle) {
         int n=triangle.size();
         int[][] dp=new int[n][n];
-         for (int i = 0; i < n; i++) {
-            Arrays.fill(dp[i], -1);
+        for(int j=0;j<n;j++){
+            dp[n-1][j]=triangle.get(n-1).get(j);
         }
-       return fun(0,0,triangle.size(),triangle,dp);
+        //the tabulation anser 
+         for(int i=n-2;i>=0;i--){
+            for(int j=i;j>=0;j--){
+                int d=triangle.get(i).get(j)+dp[i+1][j];
+                int dg=triangle.get(i).get(j)+dp[i+1][j+1];
+                dp[i][j]=Math.min(d,dg);
+            }
+         }
+         return dp[0][0];
     }
 }
