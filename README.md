@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/sivachandiran396/problem-solving/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/sivachandiran396/problem-solving/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sivachandiran396/problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sivachandiran396/problem-solving/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/sivachandiran396/problem-solving/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/sivachandiran396/problem-solving/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/sivachandiran396/problem-solving/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sivachandiran396/problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sivachandiran396/problem-solving/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
