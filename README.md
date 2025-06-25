@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/sivachandiran396/problem-solving/tree/master/0777-toeplitz-matrix) |
 | [0909-stone-game](https://github.com/sivachandiran396/problem-solving/tree/master/0909-stone-game) |
 | [0940-fruit-into-baskets](https://github.com/sivachandiran396/problem-solving/tree/master/0940-fruit-into-baskets) |
+| [0967-minimum-falling-path-sum](https://github.com/sivachandiran396/problem-solving/tree/master/0967-minimum-falling-path-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/sivachandiran396/problem-solving/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/sivachandiran396/problem-solving/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/sivachandiran396/problem-solving/tree/master/1046-max-consecutive-ones-iii) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sivachandiran396/problem-solving/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/sivachandiran396/problem-solving/tree/master/0396-rotate-function) |
 | [0909-stone-game](https://github.com/sivachandiran396/problem-solving/tree/master/0909-stone-game) |
+| [0967-minimum-falling-path-sum](https://github.com/sivachandiran396/problem-solving/tree/master/0967-minimum-falling-path-sum) |
 | [1236-n-th-tribonacci-number](https://github.com/sivachandiran396/problem-solving/tree/master/1236-n-th-tribonacci-number) |
 ## Stack
 |  |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/sivachandiran396/problem-solving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sivachandiran396/problem-solving/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/sivachandiran396/problem-solving/tree/master/0777-toeplitz-matrix) |
+| [0967-minimum-falling-path-sum](https://github.com/sivachandiran396/problem-solving/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/sivachandiran396/problem-solving/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/sivachandiran396/problem-solving/tree/master/1073-number-of-enclaves) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/sivachandiran396/problem-solving/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
