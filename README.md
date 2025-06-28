@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/sivachandiran396/problem-solving/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sivachandiran396/problem-solving/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sivachandiran396/problem-solving/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2032-largest-odd-number-in-string](https://github.com/sivachandiran396/problem-solving/tree/master/2032-largest-odd-number-in-string) |
 | [2610-closest-prime-numbers-in-range](https://github.com/sivachandiran396/problem-solving/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/sivachandiran396/problem-solving/tree/master/2649-count-total-number-of-colored-cells) |
 | [2650-split-with-minimum-sum](https://github.com/sivachandiran396/problem-solving/tree/master/2650-split-with-minimum-sum) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sivachandiran396/problem-solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/sivachandiran396/problem-solving/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sivachandiran396/problem-solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2032-largest-odd-number-in-string](https://github.com/sivachandiran396/problem-solving/tree/master/2032-largest-odd-number-in-string) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/sivachandiran396/problem-solving/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sivachandiran396/problem-solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/sivachandiran396/problem-solving/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sivachandiran396/problem-solving/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2032-largest-odd-number-in-string](https://github.com/sivachandiran396/problem-solving/tree/master/2032-largest-odd-number-in-string) |
 | [2650-split-with-minimum-sum](https://github.com/sivachandiran396/problem-solving/tree/master/2650-split-with-minimum-sum) |
 ## Design
 |  |
