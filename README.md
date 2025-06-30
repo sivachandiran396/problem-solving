@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/sivachandiran396/problem-solving/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/sivachandiran396/problem-solving/tree/master/0416-partition-equal-subset-sum) |
 | [0463-island-perimeter](https://github.com/sivachandiran396/problem-solving/tree/master/0463-island-perimeter) |
+| [0594-longest-harmonious-subsequence](https://github.com/sivachandiran396/problem-solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/sivachandiran396/problem-solving/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/sivachandiran396/problem-solving/tree/master/0695-max-area-of-island) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/sivachandiran396/problem-solving/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/sivachandiran396/problem-solving/tree/master/0056-merge-intervals) |
 | [0274-h-index](https://github.com/sivachandiran396/problem-solving/tree/master/0274-h-index) |
+| [0594-longest-harmonious-subsequence](https://github.com/sivachandiran396/problem-solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/sivachandiran396/problem-solving/tree/master/0692-top-k-frequent-words) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sivachandiran396/problem-solving/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2447-merge-similar-items](https://github.com/sivachandiran396/problem-solving/tree/master/2447-merge-similar-items) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/sivachandiran396/problem-solving/tree/master/0274-h-index) |
 | [0383-ransom-note](https://github.com/sivachandiran396/problem-solving/tree/master/0383-ransom-note) |
+| [0594-longest-harmonious-subsequence](https://github.com/sivachandiran396/problem-solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/sivachandiran396/problem-solving/tree/master/0692-top-k-frequent-words) |
 | [1034-subarrays-with-k-different-integers](https://github.com/sivachandiran396/problem-solving/tree/master/1034-subarrays-with-k-different-integers) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sivachandiran396/problem-solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sivachandiran396/problem-solving/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/sivachandiran396/problem-solving/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/sivachandiran396/problem-solving/tree/master/0424-longest-repeating-character-replacement) |
+| [0594-longest-harmonious-subsequence](https://github.com/sivachandiran396/problem-solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sivachandiran396/problem-solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/sivachandiran396/problem-solving/tree/master/0692-top-k-frequent-words) |
 | [0889-buddy-strings](https://github.com/sivachandiran396/problem-solving/tree/master/0889-buddy-strings) |
@@ -512,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/sivachandiran396/problem-solving/tree/master/0424-longest-repeating-character-replacement) |
+| [0594-longest-harmonious-subsequence](https://github.com/sivachandiran396/problem-solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/sivachandiran396/problem-solving/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/sivachandiran396/problem-solving/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/sivachandiran396/problem-solving/tree/master/1046-max-consecutive-ones-iii) |
