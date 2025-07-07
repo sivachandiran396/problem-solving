@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sivachandiran396/problem-solving/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/sivachandiran396/problem-solving/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/sivachandiran396/problem-solving/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/sivachandiran396/problem-solving/tree/master/0042-trapping-rain-water) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sivachandiran396/problem-solving/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/sivachandiran396/problem-solving/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/sivachandiran396/problem-solving/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0063-unique-paths-ii) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sivachandiran396/problem-solving/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/sivachandiran396/problem-solving/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sivachandiran396/problem-solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0067-add-binary](https://github.com/sivachandiran396/problem-solving/tree/master/0067-add-binary) |
