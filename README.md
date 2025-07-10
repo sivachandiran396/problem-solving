@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/sivachandiran396/problem-solving/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sivachandiran396/problem-solving/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/sivachandiran396/problem-solving/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/sivachandiran396/problem-solving/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sivachandiran396/problem-solving/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sivachandiran396/problem-solving/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sivachandiran396/problem-solving/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/sivachandiran396/problem-solving/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/sivachandiran396/problem-solving/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/sivachandiran396/problem-solving/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/sivachandiran396/problem-solving/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sivachandiran396/problem-solving/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/sivachandiran396/problem-solving/tree/master/2793-count-the-number-of-complete-components) |
 ## Recursion
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/sivachandiran396/problem-solving/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/sivachandiran396/problem-solving/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/sivachandiran396/problem-solving/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/sivachandiran396/problem-solving/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/sivachandiran396/problem-solving/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2728-sum-in-a-matrix](https://github.com/sivachandiran396/problem-solving/tree/master/2728-sum-in-a-matrix) |
 | [3330-modify-the-matrix](https://github.com/sivachandiran396/problem-solving/tree/master/3330-modify-the-matrix) |
