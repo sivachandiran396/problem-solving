@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/sivachandiran396/problem-solving/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sivachandiran396/problem-solving/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/sivachandiran396/problem-solving/tree/master/0216-combination-sum-iii) |
+| [0228-summary-ranges](https://github.com/sivachandiran396/problem-solving/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/sivachandiran396/problem-solving/tree/master/0274-h-index) |
 | [0303-range-sum-query-immutable](https://github.com/sivachandiran396/problem-solving/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/sivachandiran396/problem-solving/tree/master/0322-coin-change) |
