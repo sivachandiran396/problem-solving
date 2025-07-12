@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/sivachandiran396/problem-solving/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/sivachandiran396/problem-solving/tree/master/0463-island-perimeter) |
 | [0594-longest-harmonious-subsequence](https://github.com/sivachandiran396/problem-solving/tree/master/0594-longest-harmonious-subsequence) |
+| [0665-non-decreasing-array](https://github.com/sivachandiran396/problem-solving/tree/master/0665-non-decreasing-array) |
 | [0692-top-k-frequent-words](https://github.com/sivachandiran396/problem-solving/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/sivachandiran396/problem-solving/tree/master/0695-max-area-of-island) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/sivachandiran396/problem-solving/tree/master/0717-1-bit-and-2-bit-characters) |
