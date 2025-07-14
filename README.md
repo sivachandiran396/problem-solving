@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/sivachandiran396/problem-solving/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/sivachandiran396/problem-solving/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0445-add-two-numbers-ii) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sivachandiran396/problem-solving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
 |  |
 | ------- |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/sivachandiran396/problem-solving/tree/master/0909-stone-game) |
 | [1236-n-th-tribonacci-number](https://github.com/sivachandiran396/problem-solving/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sivachandiran396/problem-solving/tree/master/1370-count-number-of-nice-subarrays) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sivachandiran396/problem-solving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/sivachandiran396/problem-solving/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/sivachandiran396/problem-solving/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sivachandiran396/problem-solving/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
