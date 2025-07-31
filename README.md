@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sivachandiran396/problem-solving/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/sivachandiran396/problem-solving/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/sivachandiran396/problem-solving/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3311-ant-on-the-boundary](https://github.com/sivachandiran396/problem-solving/tree/master/3311-ant-on-the-boundary) |
 | [3330-modify-the-matrix](https://github.com/sivachandiran396/problem-solving/tree/master/3330-modify-the-matrix) |
 | [3430-count-days-without-meetings](https://github.com/sivachandiran396/problem-solving/tree/master/3430-count-days-without-meetings) |
 | [3463-alternating-groups-i](https://github.com/sivachandiran396/problem-solving/tree/master/3463-alternating-groups-i) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/sivachandiran396/problem-solving/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/sivachandiran396/problem-solving/tree/master/2551-apply-operations-to-an-array) |
 | [2728-sum-in-a-matrix](https://github.com/sivachandiran396/problem-solving/tree/master/2728-sum-in-a-matrix) |
+| [3311-ant-on-the-boundary](https://github.com/sivachandiran396/problem-solving/tree/master/3311-ant-on-the-boundary) |
 | [3447-clear-digits](https://github.com/sivachandiran396/problem-solving/tree/master/3447-clear-digits) |
 ## Matrix
 |  |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/sivachandiran396/problem-solving/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sivachandiran396/problem-solving/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/sivachandiran396/problem-solving/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [3311-ant-on-the-boundary](https://github.com/sivachandiran396/problem-solving/tree/master/3311-ant-on-the-boundary) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sivachandiran396/problem-solving/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/sivachandiran396/problem-solving/tree/master/3639-zero-array-transformation-i) |
 ## Memoization
