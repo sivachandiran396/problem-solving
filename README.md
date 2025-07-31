@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/sivachandiran396/problem-solving/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3311-ant-on-the-boundary](https://github.com/sivachandiran396/problem-solving/tree/master/3311-ant-on-the-boundary) |
 | [3330-modify-the-matrix](https://github.com/sivachandiran396/problem-solving/tree/master/3330-modify-the-matrix) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/sivachandiran396/problem-solving/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3430-count-days-without-meetings](https://github.com/sivachandiran396/problem-solving/tree/master/3430-count-days-without-meetings) |
 | [3463-alternating-groups-i](https://github.com/sivachandiran396/problem-solving/tree/master/3463-alternating-groups-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sivachandiran396/problem-solving/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/sivachandiran396/problem-solving/tree/master/2551-apply-operations-to-an-array) |
 | [2728-sum-in-a-matrix](https://github.com/sivachandiran396/problem-solving/tree/master/2728-sum-in-a-matrix) |
 | [3311-ant-on-the-boundary](https://github.com/sivachandiran396/problem-solving/tree/master/3311-ant-on-the-boundary) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/sivachandiran396/problem-solving/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3447-clear-digits](https://github.com/sivachandiran396/problem-solving/tree/master/3447-clear-digits) |
 ## Matrix
 |  |
