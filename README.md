@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/sivachandiran396/problem-solving/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sivachandiran396/problem-solving/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/sivachandiran396/problem-solving/tree/master/1073-number-of-enclaves) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/sivachandiran396/problem-solving/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1127-last-stone-weight](https://github.com/sivachandiran396/problem-solving/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sivachandiran396/problem-solving/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sivachandiran396/problem-solving/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/sivachandiran396/problem-solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/sivachandiran396/problem-solving/tree/master/0692-top-k-frequent-words) |
 | [1034-subarrays-with-k-different-integers](https://github.com/sivachandiran396/problem-solving/tree/master/1034-subarrays-with-k-different-integers) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/sivachandiran396/problem-solving/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sivachandiran396/problem-solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sivachandiran396/problem-solving/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sivachandiran396/problem-solving/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/sivachandiran396/problem-solving/tree/master/0583-delete-operation-for-two-strings) |
 | [0692-top-k-frequent-words](https://github.com/sivachandiran396/problem-solving/tree/master/0692-top-k-frequent-words) |
 | [0889-buddy-strings](https://github.com/sivachandiran396/problem-solving/tree/master/0889-buddy-strings) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/sivachandiran396/problem-solving/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1170-shortest-common-supersequence](https://github.com/sivachandiran396/problem-solving/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/sivachandiran396/problem-solving/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sivachandiran396/problem-solving/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-buddy-strings](https://github.com/sivachandiran396/problem-solving/tree/master/0889-buddy-strings) |
 | [0940-fruit-into-baskets](https://github.com/sivachandiran396/problem-solving/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/sivachandiran396/problem-solving/tree/master/1034-subarrays-with-k-different-integers) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/sivachandiran396/problem-solving/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sivachandiran396/problem-solving/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sivachandiran396/problem-solving/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sivachandiran396/problem-solving/tree/master/1460-number-of-substrings-containing-all-three-characters) |
