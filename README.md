@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/sivachandiran396/problem-solving/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/sivachandiran396/problem-solving/tree/master/0463-island-perimeter) |
 | [0495-teemo-attacking](https://github.com/sivachandiran396/problem-solving/tree/master/0495-teemo-attacking) |
+| [0525-contiguous-array](https://github.com/sivachandiran396/problem-solving/tree/master/0525-contiguous-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/sivachandiran396/problem-solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0665-non-decreasing-array](https://github.com/sivachandiran396/problem-solving/tree/master/0665-non-decreasing-array) |
 | [0692-top-k-frequent-words](https://github.com/sivachandiran396/problem-solving/tree/master/0692-top-k-frequent-words) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sivachandiran396/problem-solving/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/sivachandiran396/problem-solving/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/sivachandiran396/problem-solving/tree/master/0424-longest-repeating-character-replacement) |
+| [0525-contiguous-array](https://github.com/sivachandiran396/problem-solving/tree/master/0525-contiguous-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/sivachandiran396/problem-solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sivachandiran396/problem-solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/sivachandiran396/problem-solving/tree/master/0692-top-k-frequent-words) |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/sivachandiran396/problem-solving/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/sivachandiran396/problem-solving/tree/master/0525-contiguous-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/sivachandiran396/problem-solving/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sivachandiran396/problem-solving/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sivachandiran396/problem-solving/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
