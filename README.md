@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/sivachandiran396/problem-solving/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/sivachandiran396/problem-solving/tree/master/0274-h-index) |
 | [0303-range-sum-query-immutable](https://github.com/sivachandiran396/problem-solving/tree/master/0303-range-sum-query-immutable) |
+| [0318-maximum-product-of-word-lengths](https://github.com/sivachandiran396/problem-solving/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/sivachandiran396/problem-solving/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/sivachandiran396/problem-solving/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/sivachandiran396/problem-solving/tree/master/0416-partition-equal-subset-sum) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/sivachandiran396/problem-solving/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/sivachandiran396/problem-solving/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/sivachandiran396/problem-solving/tree/master/0222-count-complete-tree-nodes) |
+| [0318-maximum-product-of-word-lengths](https://github.com/sivachandiran396/problem-solving/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/sivachandiran396/problem-solving/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/sivachandiran396/problem-solving/tree/master/0397-integer-replacement) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sivachandiran396/problem-solving/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/sivachandiran396/problem-solving/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/sivachandiran396/problem-solving/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/sivachandiran396/problem-solving/tree/master/0257-binary-tree-paths) |
+| [0318-maximum-product-of-word-lengths](https://github.com/sivachandiran396/problem-solving/tree/master/0318-maximum-product-of-word-lengths) |
 | [0383-ransom-note](https://github.com/sivachandiran396/problem-solving/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/sivachandiran396/problem-solving/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/sivachandiran396/problem-solving/tree/master/0424-longest-repeating-character-replacement) |
