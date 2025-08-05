@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/sivachandiran396/problem-solving/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sivachandiran396/problem-solving/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sivachandiran396/problem-solving/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-fruits-into-baskets-ii](https://github.com/sivachandiran396/problem-solving/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2447-merge-similar-items](https://github.com/sivachandiran396/problem-solving/tree/master/2447-merge-similar-items) |
+| [3790-fruits-into-baskets-ii](https://github.com/sivachandiran396/problem-solving/tree/master/3790-fruits-into-baskets-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3311-ant-on-the-boundary](https://github.com/sivachandiran396/problem-solving/tree/master/3311-ant-on-the-boundary) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/sivachandiran396/problem-solving/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3447-clear-digits](https://github.com/sivachandiran396/problem-solving/tree/master/3447-clear-digits) |
+| [3790-fruits-into-baskets-ii](https://github.com/sivachandiran396/problem-solving/tree/master/3790-fruits-into-baskets-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -563,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/sivachandiran396/problem-solving/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/sivachandiran396/problem-solving/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sivachandiran396/problem-solving/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3790-fruits-into-baskets-ii](https://github.com/sivachandiran396/problem-solving/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -691,4 +695,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/sivachandiran396/problem-solving/tree/master/0692-top-k-frequent-words) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/sivachandiran396/problem-solving/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
