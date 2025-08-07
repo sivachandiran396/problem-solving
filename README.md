@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sivachandiran396/problem-solving/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/sivachandiran396/problem-solving/tree/master/0216-combination-sum-iii) |
 | [0228-summary-ranges](https://github.com/sivachandiran396/problem-solving/tree/master/0228-summary-ranges) |
+| [0239-sliding-window-maximum](https://github.com/sivachandiran396/problem-solving/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/sivachandiran396/problem-solving/tree/master/0274-h-index) |
 | [0303-range-sum-query-immutable](https://github.com/sivachandiran396/problem-solving/tree/master/0303-range-sum-query-immutable) |
 | [0318-maximum-product-of-word-lengths](https://github.com/sivachandiran396/problem-solving/tree/master/0318-maximum-product-of-word-lengths) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/sivachandiran396/problem-solving/tree/master/0239-sliding-window-maximum) |
 | [0692-top-k-frequent-words](https://github.com/sivachandiran396/problem-solving/tree/master/0692-top-k-frequent-words) |
 | [1127-last-stone-weight](https://github.com/sivachandiran396/problem-solving/tree/master/1127-last-stone-weight) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sivachandiran396/problem-solving/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/sivachandiran396/problem-solving/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/sivachandiran396/problem-solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/sivachandiran396/problem-solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sivachandiran396/problem-solving/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -669,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/sivachandiran396/problem-solving/tree/master/0239-sliding-window-maximum) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sivachandiran396/problem-solving/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Divide and Conquer
 |  |
@@ -711,4 +715,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sivachandiran396/problem-solving/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sivachandiran396/problem-solving/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
