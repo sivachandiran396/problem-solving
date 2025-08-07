@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/sivachandiran396/problem-solving/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1127-last-stone-weight](https://github.com/sivachandiran396/problem-solving/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sivachandiran396/problem-solving/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1287-distance-between-bus-stops](https://github.com/sivachandiran396/problem-solving/tree/master/1287-distance-between-bus-stops) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sivachandiran396/problem-solving/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sivachandiran396/problem-solving/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sivachandiran396/problem-solving/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
