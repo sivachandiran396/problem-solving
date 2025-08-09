@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/sivachandiran396/problem-solving/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sivachandiran396/problem-solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sivachandiran396/problem-solving/tree/master/2308-divide-array-into-equal-pairs) |
+| [2372-rearrange-characters-to-make-target-string](https://github.com/sivachandiran396/problem-solving/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sivachandiran396/problem-solving/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sivachandiran396/problem-solving/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sivachandiran396/problem-solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/sivachandiran396/problem-solving/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/sivachandiran396/problem-solving/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2372-rearrange-characters-to-make-target-string](https://github.com/sivachandiran396/problem-solving/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sivachandiran396/problem-solving/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3396-valid-word](https://github.com/sivachandiran396/problem-solving/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/sivachandiran396/problem-solving/tree/master/3447-clear-digits) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sivachandiran396/problem-solving/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/sivachandiran396/problem-solving/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sivachandiran396/problem-solving/tree/master/2308-divide-array-into-equal-pairs) |
+| [2372-rearrange-characters-to-make-target-string](https://github.com/sivachandiran396/problem-solving/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2447-merge-similar-items](https://github.com/sivachandiran396/problem-solving/tree/master/2447-merge-similar-items) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sivachandiran396/problem-solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sivachandiran396/problem-solving/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
