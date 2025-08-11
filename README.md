@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/sivachandiran396/problem-solving/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/sivachandiran396/problem-solving/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3311-ant-on-the-boundary](https://github.com/sivachandiran396/problem-solving/tree/master/3311-ant-on-the-boundary) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sivachandiran396/problem-solving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3330-modify-the-matrix](https://github.com/sivachandiran396/problem-solving/tree/master/3330-modify-the-matrix) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/sivachandiran396/problem-solving/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3430-count-days-without-meetings](https://github.com/sivachandiran396/problem-solving/tree/master/3430-count-days-without-meetings) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/sivachandiran396/problem-solving/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/sivachandiran396/problem-solving/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sivachandiran396/problem-solving/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sivachandiran396/problem-solving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3396-valid-word](https://github.com/sivachandiran396/problem-solving/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/sivachandiran396/problem-solving/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/sivachandiran396/problem-solving/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sivachandiran396/problem-solving/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/sivachandiran396/problem-solving/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sivachandiran396/problem-solving/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sivachandiran396/problem-solving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/sivachandiran396/problem-solving/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/sivachandiran396/problem-solving/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sivachandiran396/problem-solving/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -705,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/sivachandiran396/problem-solving/tree/master/0386-lexicographical-numbers) |
 | [0692-top-k-frequent-words](https://github.com/sivachandiran396/problem-solving/tree/master/0692-top-k-frequent-words) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sivachandiran396/problem-solving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Bucket Sort
 |  |
 | ------- |
