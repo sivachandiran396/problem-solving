@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sivachandiran396/problem-solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/sivachandiran396/problem-solving/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/sivachandiran396/problem-solving/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/sivachandiran396/problem-solving/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/sivachandiran396/problem-solving/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sivachandiran396/problem-solving/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sivachandiran396/problem-solving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
