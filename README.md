@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/sivachandiran396/problem-solving/tree/master/0222-count-complete-tree-nodes) |
 | [0318-maximum-product-of-word-lengths](https://github.com/sivachandiran396/problem-solving/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/sivachandiran396/problem-solving/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/sivachandiran396/problem-solving/tree/master/0342-power-of-four) |
 | [0397-integer-replacement](https://github.com/sivachandiran396/problem-solving/tree/master/0397-integer-replacement) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sivachandiran396/problem-solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sivachandiran396/problem-solving/tree/master/2308-divide-array-into-equal-pairs) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/sivachandiran396/problem-solving/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/sivachandiran396/problem-solving/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/sivachandiran396/problem-solving/tree/master/0171-excel-sheet-column-number) |
+| [0342-power-of-four](https://github.com/sivachandiran396/problem-solving/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/sivachandiran396/problem-solving/tree/master/0396-rotate-function) |
 | [0445-add-two-numbers-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0445-add-two-numbers-ii) |
 | [0633-sum-of-square-numbers](https://github.com/sivachandiran396/problem-solving/tree/master/0633-sum-of-square-numbers) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/sivachandiran396/problem-solving/tree/master/0025-reverse-nodes-in-k-group) |
 | [0060-permutation-sequence](https://github.com/sivachandiran396/problem-solving/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/sivachandiran396/problem-solving/tree/master/0143-reorder-list) |
+| [0342-power-of-four](https://github.com/sivachandiran396/problem-solving/tree/master/0342-power-of-four) |
 ## Ordered Set
 |  |
 | ------- |
