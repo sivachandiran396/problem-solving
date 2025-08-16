@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sivachandiran396/problem-solving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/sivachandiran396/problem-solving/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/sivachandiran396/problem-solving/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1448-maximum-69-number](https://github.com/sivachandiran396/problem-solving/tree/master/1448-maximum-69-number) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/sivachandiran396/problem-solving/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sivachandiran396/problem-solving/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sivachandiran396/problem-solving/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -652,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0397-integer-replacement](https://github.com/sivachandiran396/problem-solving/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/sivachandiran396/problem-solving/tree/master/0435-non-overlapping-intervals) |
+| [1448-maximum-69-number](https://github.com/sivachandiran396/problem-solving/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/sivachandiran396/problem-solving/tree/master/2032-largest-odd-number-in-string) |
 | [2650-split-with-minimum-sum](https://github.com/sivachandiran396/problem-solving/tree/master/2650-split-with-minimum-sum) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sivachandiran396/problem-solving/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
