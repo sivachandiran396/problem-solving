@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/sivachandiran396/problem-solving/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/sivachandiran396/problem-solving/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sivachandiran396/problem-solving/tree/master/2308-divide-array-into-equal-pairs) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/sivachandiran396/problem-solving/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2447-merge-similar-items](https://github.com/sivachandiran396/problem-solving/tree/master/2447-merge-similar-items) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sivachandiran396/problem-solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/sivachandiran396/problem-solving/tree/master/2478-longest-nice-subarray) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sivachandiran396/problem-solving/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sivachandiran396/problem-solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/sivachandiran396/problem-solving/tree/master/2032-largest-odd-number-in-string) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/sivachandiran396/problem-solving/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/sivachandiran396/problem-solving/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2610-closest-prime-numbers-in-range](https://github.com/sivachandiran396/problem-solving/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/sivachandiran396/problem-solving/tree/master/2649-count-total-number-of-colored-cells) |
