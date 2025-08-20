@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sivachandiran396/problem-solving/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/sivachandiran396/problem-solving/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sivachandiran396/problem-solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sivachandiran396/problem-solving/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sivachandiran396/problem-solving/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/sivachandiran396/problem-solving/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/sivachandiran396/problem-solving/tree/master/2690-house-robber-iv) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sivachandiran396/problem-solving/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/sivachandiran396/problem-solving/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sivachandiran396/problem-solving/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sivachandiran396/problem-solving/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sivachandiran396/problem-solving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3396-valid-word](https://github.com/sivachandiran396/problem-solving/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/sivachandiran396/problem-solving/tree/master/3447-clear-digits) |
