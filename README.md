@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/sivachandiran396/problem-solving/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/sivachandiran396/problem-solving/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/sivachandiran396/problem-solving/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sivachandiran396/problem-solving/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/sivachandiran396/problem-solving/tree/master/0078-subsets) |
