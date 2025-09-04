@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/sivachandiran396/problem-solving/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sivachandiran396/problem-solving/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/sivachandiran396/problem-solving/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3830-find-closest-person](https://github.com/sivachandiran396/problem-solving/tree/master/3830-find-closest-person) |
 ## String
 |  |
 | ------- |
