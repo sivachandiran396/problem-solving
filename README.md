@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2650-split-with-minimum-sum](https://github.com/sivachandiran396/problem-solving/tree/master/2650-split-with-minimum-sum) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sivachandiran396/problem-solving/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2728-sum-in-a-matrix](https://github.com/sivachandiran396/problem-solving/tree/master/2728-sum-in-a-matrix) |
+| [2887-sort-vowels-in-a-string](https://github.com/sivachandiran396/problem-solving/tree/master/2887-sort-vowels-in-a-string) |
 | [3430-count-days-without-meetings](https://github.com/sivachandiran396/problem-solving/tree/master/3430-count-days-without-meetings) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sivachandiran396/problem-solving/tree/master/3748-sort-matrix-by-diagonals) |
 ## Counting Sort
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2372-rearrange-characters-to-make-target-string](https://github.com/sivachandiran396/problem-solving/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sivachandiran396/problem-solving/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sivachandiran396/problem-solving/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
+| [2887-sort-vowels-in-a-string](https://github.com/sivachandiran396/problem-solving/tree/master/2887-sort-vowels-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sivachandiran396/problem-solving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3396-valid-word](https://github.com/sivachandiran396/problem-solving/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/sivachandiran396/problem-solving/tree/master/3447-clear-digits) |
