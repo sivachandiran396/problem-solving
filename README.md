@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/sivachandiran396/problem-solving/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/sivachandiran396/problem-solving/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/sivachandiran396/problem-solving/tree/master/1250-longest-common-subsequence) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/sivachandiran396/problem-solving/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/sivachandiran396/problem-solving/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sivachandiran396/problem-solving/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sivachandiran396/problem-solving/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/sivachandiran396/problem-solving/tree/master/1034-subarrays-with-k-different-integers) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/sivachandiran396/problem-solving/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sivachandiran396/problem-solving/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/sivachandiran396/problem-solving/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sivachandiran396/problem-solving/tree/master/1370-count-number-of-nice-subarrays) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/sivachandiran396/problem-solving/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sivachandiran396/problem-solving/tree/master/1460-number-of-substrings-containing-all-three-characters) |
