@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/sivachandiran396/problem-solving/tree/master/0967-minimum-falling-path-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/sivachandiran396/problem-solving/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/sivachandiran396/problem-solving/tree/master/1036-rotting-oranges) |
+| [1041-available-captures-for-rook](https://github.com/sivachandiran396/problem-solving/tree/master/1041-available-captures-for-rook) |
 | [1046-max-consecutive-ones-iii](https://github.com/sivachandiran396/problem-solving/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sivachandiran396/problem-solving/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/sivachandiran396/problem-solving/tree/master/1073-number-of-enclaves) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sivachandiran396/problem-solving/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/sivachandiran396/problem-solving/tree/master/0289-game-of-life) |
 | [0495-teemo-attacking](https://github.com/sivachandiran396/problem-solving/tree/master/0495-teemo-attacking) |
+| [1041-available-captures-for-rook](https://github.com/sivachandiran396/problem-solving/tree/master/1041-available-captures-for-rook) |
 | [1386-shift-2d-grid](https://github.com/sivachandiran396/problem-solving/tree/master/1386-shift-2d-grid) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/sivachandiran396/problem-solving/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sivachandiran396/problem-solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/sivachandiran396/problem-solving/tree/master/0777-toeplitz-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/sivachandiran396/problem-solving/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/sivachandiran396/problem-solving/tree/master/1036-rotting-oranges) |
+| [1041-available-captures-for-rook](https://github.com/sivachandiran396/problem-solving/tree/master/1041-available-captures-for-rook) |
 | [1073-number-of-enclaves](https://github.com/sivachandiran396/problem-solving/tree/master/1073-number-of-enclaves) |
 | [1104-coloring-a-border](https://github.com/sivachandiran396/problem-solving/tree/master/1104-coloring-a-border) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sivachandiran396/problem-solving/tree/master/1171-shortest-path-in-binary-matrix) |
