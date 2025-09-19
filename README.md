@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/sivachandiran396/problem-solving/tree/master/0303-range-sum-query-immutable) |
 | [0318-maximum-product-of-word-lengths](https://github.com/sivachandiran396/problem-solving/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/sivachandiran396/problem-solving/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sivachandiran396/problem-solving/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0396-rotate-function](https://github.com/sivachandiran396/problem-solving/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/sivachandiran396/problem-solving/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/sivachandiran396/problem-solving/tree/master/0435-non-overlapping-intervals) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sivachandiran396/problem-solving/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sivachandiran396/problem-solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0322-coin-change](https://github.com/sivachandiran396/problem-solving/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sivachandiran396/problem-solving/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/sivachandiran396/problem-solving/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/sivachandiran396/problem-solving/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/sivachandiran396/problem-solving/tree/master/0396-rotate-function) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sivachandiran396/problem-solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sivachandiran396/problem-solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/sivachandiran396/problem-solving/tree/master/0257-binary-tree-paths) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sivachandiran396/problem-solving/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0386-lexicographical-numbers](https://github.com/sivachandiran396/problem-solving/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/sivachandiran396/problem-solving/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/sivachandiran396/problem-solving/tree/master/0463-island-perimeter) |
@@ -539,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/sivachandiran396/problem-solving/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/sivachandiran396/problem-solving/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sivachandiran396/problem-solving/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0404-sum-of-left-leaves](https://github.com/sivachandiran396/problem-solving/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/sivachandiran396/problem-solving/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/sivachandiran396/problem-solving/tree/master/0547-number-of-provinces) |
@@ -597,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/sivachandiran396/problem-solving/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sivachandiran396/problem-solving/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/sivachandiran396/problem-solving/tree/master/0289-game-of-life) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sivachandiran396/problem-solving/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/sivachandiran396/problem-solving/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/sivachandiran396/problem-solving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sivachandiran396/problem-solving/tree/master/0733-flood-fill) |
@@ -692,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sivachandiran396/problem-solving/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0397-integer-replacement](https://github.com/sivachandiran396/problem-solving/tree/master/0397-integer-replacement) |
 | [1236-n-th-tribonacci-number](https://github.com/sivachandiran396/problem-solving/tree/master/1236-n-th-tribonacci-number) |
 ## Greedy
@@ -724,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/sivachandiran396/problem-solving/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sivachandiran396/problem-solving/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/sivachandiran396/problem-solving/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/sivachandiran396/problem-solving/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/sivachandiran396/problem-solving/tree/master/0820-find-eventual-safe-states) |
@@ -737,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/sivachandiran396/problem-solving/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sivachandiran396/problem-solving/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sivachandiran396/problem-solving/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/sivachandiran396/problem-solving/tree/master/0820-find-eventual-safe-states) |
 ## Queue
 |  |
