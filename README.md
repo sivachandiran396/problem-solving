@@ -447,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/sivachandiran396/problem-solving/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/sivachandiran396/problem-solving/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sivachandiran396/problem-solving/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1005-univalued-binary-tree](https://github.com/sivachandiran396/problem-solving/tree/master/1005-univalued-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sivachandiran396/problem-solving/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sivachandiran396/problem-solving/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/sivachandiran396/problem-solving/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/sivachandiran396/problem-solving/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/sivachandiran396/problem-solving/tree/master/0820-find-eventual-safe-states) |
+| [1005-univalued-binary-tree](https://github.com/sivachandiran396/problem-solving/tree/master/1005-univalued-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/sivachandiran396/problem-solving/tree/master/1073-number-of-enclaves) |
 | [1104-coloring-a-border](https://github.com/sivachandiran396/problem-solving/tree/master/1104-coloring-a-border) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sivachandiran396/problem-solving/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/sivachandiran396/problem-solving/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sivachandiran396/problem-solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sivachandiran396/problem-solving/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1005-univalued-binary-tree](https://github.com/sivachandiran396/problem-solving/tree/master/1005-univalued-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sivachandiran396/problem-solving/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sivachandiran396/problem-solving/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
@@ -556,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/sivachandiran396/problem-solving/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/sivachandiran396/problem-solving/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/sivachandiran396/problem-solving/tree/master/0820-find-eventual-safe-states) |
+| [1005-univalued-binary-tree](https://github.com/sivachandiran396/problem-solving/tree/master/1005-univalued-binary-tree) |
 | [1036-rotting-oranges](https://github.com/sivachandiran396/problem-solving/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/sivachandiran396/problem-solving/tree/master/1073-number-of-enclaves) |
 | [1104-coloring-a-border](https://github.com/sivachandiran396/problem-solving/tree/master/1104-coloring-a-border) |
